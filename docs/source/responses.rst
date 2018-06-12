@@ -538,6 +538,8 @@ game_mode
     20, All Random Death Match
     21, Solo Mid 1 vs 1
     22, Ranked All Pick
+    23, Turbo Mode
+    24, Mutation Mode
 
 .. _lobby_type:
 
